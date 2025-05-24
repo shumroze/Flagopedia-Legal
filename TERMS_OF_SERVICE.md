@@ -84,7 +84,7 @@ These Terms are governed by the laws of India, without regard to conflict of law
 
 For questions about these Terms, contact us at:
 - Email: shumrozeb@gmail.com
-- GitHub: https://github.com/shumroze/Flagopedia-iOS
+- GitHub: https://github.com/shumroze/Flagopedia-Legal
 
 ## 16. Entire Agreement
 
