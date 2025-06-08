@@ -1,6 +1,6 @@
 # Terms of Service for Flagopedia
 
-**Last Updated: May 2025**
+**Last Updated: June 2024**
 
 ## 1. Acceptance of Terms
 
@@ -12,18 +12,37 @@ Flagopedia is an educational mobile game that helps users learn world flags thro
 - Daily flag discovery
 - Quiz games with multiple difficulty levels
 - Continent-based flag browsing
-- Optional premium features via in-app purchase
+- Optional premium features via subscription
 
 ## 3. User Accounts
 
-The App does not require user registration. Premium status is managed through Apple's App Store and tied to your Apple ID.
+The App does not require user registration. Premium subscription status is managed through Apple's App Store and tied to your Apple ID.
 
-## 4. In-App Purchases
+## 4. Subscriptions and In-App Purchases
 
-- **Premium Features**: Available as a one-time purchase
-- **Benefits**: Ad-free experience, unlock all continents, difficult quiz mode
-- **Payments**: Processed by Apple through the App Store
-- **Refunds**: Subject to Apple's refund policy
+### Subscription Options
+- **Monthly Subscription**: ₹49 per month
+- **Yearly Subscription**: ₹299 per year (Save 44%)
+- **Free Trial**: 7-day free trial available for new subscribers
+
+### Premium Benefits
+- Ad-free experience
+- Access to all continents
+- Difficult quiz mode
+- All future premium features
+
+### Billing
+- Payment will be charged to your Apple ID account at confirmation of purchase
+- Subscription automatically renews unless canceled at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- Free trial automatically converts to paid subscription unless canceled
+
+### Managing Subscriptions
+- You can manage and cancel subscriptions in your Apple ID account settings
+- No refund will be provided for the unused portion of a subscription term
+
+### Legacy Purchases
+Users who previously purchased the one-time premium upgrade retain lifetime access to premium features.
 
 ## 5. Acceptable Use
 
@@ -46,7 +65,7 @@ Any scores or game data you generate remain on your device. We do not collect or
 
 ## 7. Advertisements
 
-Free users will see advertisements provided by Google AdMob. Premium users enjoy an ad-free experience.
+Free users will see advertisements provided by Google AdMob. Premium subscribers enjoy an ad-free experience.
 
 ## 8. Privacy
 

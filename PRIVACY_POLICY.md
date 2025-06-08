@@ -1,6 +1,6 @@
 # Privacy Policy for Flagopedia
 
-**Last Updated: May 2025**
+**Last Updated: June 2024**
 
 ## Introduction
 
@@ -19,7 +19,7 @@ When you use our App, we may collect certain information automatically, includin
 ### Information Collected by Third Parties
 
 #### Google AdMob
-Our App uses Google AdMob to display advertisements. AdMob may collect:
+Our App uses Google AdMob to display advertisements to non-subscribers. AdMob may collect:
 - IP address
 - Device advertising ID (if tracking is authorized)
 - Interaction data with advertisements
@@ -27,26 +27,35 @@ Our App uses Google AdMob to display advertisements. AdMob may collect:
 
 For more information, see [Google's Privacy Policy](https://policies.google.com/privacy)
 
+#### Apple (for Subscriptions)
+When you purchase a subscription, Apple processes the transaction and may collect:
+- Payment information
+- Transaction history
+- Subscription status
+
+We only receive anonymized transaction information from Apple.
+
 ## How We Use Your Information
 
 We use the collected information to:
 - Provide and maintain the App
-- Display relevant advertisements (for non-premium users)
+- Display relevant advertisements (for non-subscribers)
+- Manage subscription status and premium features
 - Improve user experience
 - Track app performance and fix bugs
-- Process in-app purchases
+- Process subscriptions and verify premium status
 
 ## Data Sharing
 
 We do not sell, trade, or rent your personal information. We may share information with:
 
-- **Service Providers**: Google AdMob for advertising, Apple for in-app purchases
+- **Service Providers**: Google AdMob for advertising, Apple for subscription processing
 - **Legal Requirements**: If required by law or to protect our rights
 
 ## Data Retention
 
 - **Game Data**: Stored locally on your device
-- **Purchase Information**: Maintained by Apple through StoreKit
+- **Subscription Information**: Maintained by Apple through StoreKit
 - **Analytics Data**: Aggregated and anonymized data may be retained for analysis
 
 ## Your Privacy Rights
@@ -56,6 +65,9 @@ You can control ad tracking through iOS settings. We respect your choice and wil
 
 ### Data Deletion
 To delete your data, simply uninstall the App. All locally stored data will be removed.
+
+### Subscription Management
+You can manage your subscription and view your data through your Apple ID account settings.
 
 ## Children's Privacy
 
