@@ -1,6 +1,6 @@
 # Privacy Policy for Flagopedia
 
-**Last Updated: June 2024**
+**Last Updated: June 2025**
 
 ## Introduction
 
