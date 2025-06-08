@@ -21,8 +21,8 @@ The App does not require user registration. Premium subscription status is manag
 ## 4. Subscriptions and In-App Purchases
 
 ### Subscription Options
-- **Monthly Subscription**: ₹49 per month
-- **Yearly Subscription**: ₹299 per year (Save 44%)
+- **Monthly Subscription**
+- **Yearly Subscription**
 - **Free Trial**: 7-day free trial available for new subscribers
 
 ### Premium Benefits
