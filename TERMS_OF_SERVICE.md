@@ -1,6 +1,6 @@
 # Terms of Service for Flagopedia
 
-**Last Updated: June 2024**
+**Last Updated: June 2025**
 
 ## 1. Acceptance of Terms
 
